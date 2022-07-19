@@ -1,4 +1,4 @@
-// 실버3 - 프린터 큐
+package boj;// 실버3 - 프린터 큐
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-// 실버2 - 스택 수열
+package boj;// 실버2 - 스택 수열
 
 import java.util.ArrayList;
 import java.util.Scanner;
