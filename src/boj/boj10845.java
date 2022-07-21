@@ -7,7 +7,7 @@ import java.util.LinkedList;
 
 public class boj10845 {
 
-    public static void main () throws IOException {
+    public static void main (String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
@@ -16,7 +16,7 @@ public class boj10845 {
 
         for (int i = 0; i < num; i++) {
             String s = br.readLine();
-            String arr[] = s.split(" ");
+            String[] arr = s.split(" ");
 
             // 정수 arr[1]을 큐에 넣는 연산
             if (arr[0].equals("push")) {
@@ -56,7 +56,7 @@ public class boj10845 {
                 if (que.size() == 0) {
                     System.out.println(-1);
                 } else {
-                    System.out.println(back_data);;
+                    System.out.println(back_data);
                 }
             }
         }
