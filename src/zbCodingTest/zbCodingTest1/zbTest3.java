@@ -1,4 +1,4 @@
-package zbCodingTest;
+package zbCodingTest.zbCodingTest1;
 
 import jdk.jfr.internal.tool.Main;
 

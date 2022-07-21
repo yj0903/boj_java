@@ -1,4 +1,4 @@
-package zbCodingTest;
+package zbCodingTest.zbCodingTest1;
 
 public class zbTest5 {
     public static long solution(int N, int M, int K, int[] capacity) {

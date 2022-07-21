@@ -1,4 +1,4 @@
-package zbCodingTest;
+package zbCodingTest.zbCodingTest1;
 
 public class zbTest1 {
     public static int isPrime(int i) {

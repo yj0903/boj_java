@@ -1,4 +1,4 @@
-package zbCodingTest;
+package zbCodingTest.zbCodingTest1;
 
 public class zbTest4 {
     public static int solution(int n, int i, int j) {
